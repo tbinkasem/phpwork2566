@@ -1,0 +1,19 @@
+https://github.com/tbinkasem/phpwork2566
+
+DB: drink
+TABLE: 
+		account: id/username/password/fullname
+		data: id/dname/price/quatity
+
+config.php		>>> connect DB Server
+				
+1. signin (login)
+2. signup (register)
+
+3. home
+    - all data
+    4. add data
+    5. edit/update data
+    6. delete data
+
+7. logout
